@@ -62,6 +62,9 @@ int main(int argc, char* argv[])
 {
 	//test
 	//test
+
+
+	//test3
 	if ((argc == 2) && (strcmp(argv[1], "-v") == 0)) {
 		printf("Server Version: LoginServer/%s\n", VERSION);
 		printf("Server Build: %s %s\n", __DATE__, __TIME__);
